@@ -1,2 +1,3 @@
-titile: Test-Coursera
-theme: jekyll-theme-minima
+title: Test-Coursera
+#theme: jekyll-theme-minima
+theme: minima
